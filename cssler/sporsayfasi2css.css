@@ -1,0 +1,25 @@
+.arkaplan{
+
+
+    background: url("../resim/mbappe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.arkaplan2{
+
+    background: url("../resim/messi.jpg");
+    background-size: cover;
+
+}
+
+.kaydırma{
+
+
+    height:150px;
+    overflow-y: scroll;
+}
+
+
